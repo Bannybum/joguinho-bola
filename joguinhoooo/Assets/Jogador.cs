@@ -6,6 +6,7 @@ public class Jogador : MonoBehaviour
 {
     public float Vel = 10f;
 
+
     // Start is called before the first frame update
     void Start()
     {
